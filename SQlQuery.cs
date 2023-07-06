@@ -13,7 +13,7 @@ CREATE TABLE employee_payroll (
 
 #-- UC3:// Inserting new records in the existing table--
 INSERT INTO employee_payroll (name, Salary, StartDate)
-VALUES ('priyanka', 35000, '2020-02-20'), sairam
+VALUES ('priyanka', 35000, '2020-02-20'), priyanka
        ('sai', 38000, '2020-03-07'), mahesh
        ('priya', 43000, '2022-05-16');; santhosh
 
